@@ -1,0 +1,12 @@
+/* TEAM */
+Developer: Anthony Tropeano
+Contact: info@wedefendit.com
+Contact: secure@wedefendit.com
+Website: https://www.wedefendit.com
+Website: https://atropeano.com
+
+/* THANKS */
+Tools: GPG, Namecheap, GitHub Pages, Thunderbird, HTML/CSS, Open Source
+
+/* SITE */
+Last update: 2025-05-04

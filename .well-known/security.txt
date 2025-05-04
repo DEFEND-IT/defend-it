@@ -1,0 +1,3 @@
+Contact: mailto:secure@wedefendit.com
+Encryption: https://www.wedefendit.com/defendit-publickey.asc
+Preferred-Languages: en
