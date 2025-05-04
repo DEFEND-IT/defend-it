@@ -92,7 +92,7 @@ html, body {
   opacity: 0.85;
   animation: innerBoot 2s ease-out forwards;
   transform: scale(0.45) translateY(16%) translateX(-1%);
-  animation-delay: 0.4s;
+  animation-delay: 0s;
 }
 
 .glow-ring {
@@ -297,7 +297,7 @@ footer p {
     filter: drop-shadow(0 0 0.5rem #ff0000) drop-shadow(0 0 0.1rem #ff0000) brightness(1.4);
   }
   100% {
-    filter: none;
+    filter: drop-shadow(0 0 0.06rem #ff0000) drop-shadow(0 0 0.05rem #ff0000) brightness(1.4);
   }
 }
 
