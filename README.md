@@ -1,8 +1,8 @@
-# DEFEND I.T.
+# Defend I.T. Solutions™ LLC
 
 ## Table of Contents
 
-- [DEFEND I.T.](#defend-it)
+- [Defend I.T. Solutions™ LLC](#defend-it-solutions-llc)
   - [Table of Contents](#table-of-contents)
   - [Screenshot](#screenshot)
   - [Cybersecurity That Fights Back](#cybersecurity-that-fights-back)
@@ -15,11 +15,11 @@
 
 ## Screenshot
 
-![DEFEND I.T. Landing Screenshot](./assets/images/screenshot.png)
+![Defend I.T. Landing Screenshot](./assets/images/screenshot.png)
 
 ## Cybersecurity That Fights Back
 
-**DEFEND I.T.** is a cybersecurity-focused initiative built to help individuals, homeowners, and small businesses stay protected in an increasingly hostile digital landscape. This is a temporary landing page representing a pending Florida-based LLC.
+**Defend I.T. Solutions™** is a cybersecurity-focused initiative built to help individuals, homeowners, and small businesses stay protected in an increasingly hostile digital landscape. This is a temporary landing page representing the pending Florida-based LLC.
 
 ---
 
@@ -32,7 +32,7 @@ I'm a cybersecurity engineering senior and full stack web developer with deep sk
 - Software development (Python, C, JavaScript)
 - Network operations, assessment, and secure design
 
-This site is an early representation of the services that will be offered through DEFEND I.T.
+This site is an early representation of the services that will be offered through **Defend I.T. Solutions™**.
 
 ---
 
@@ -75,4 +75,13 @@ This site is an early representation of the services that will be offered throug
 
 ## Contact
 
-If you have questions, please email: [info@wedefendit.com](mailto:info@wedefendit.com)
+If you have questions, please email: [info@wedefendit.com](mailto:info@wedefendit.com)  
+  
+---
+
+© 2025 Defend I.T. Solutions LLC. All rights reserved.
+
+**Defend I.T.™** and **Defend I.T. Solutions™** are trademarks of Defend I.T. Solutions LLC. Unauthorized use of these names, brand elements, or associated materials is strictly prohibited.
+
+This software and its documentation are the property of Defend I.T. Solutions LLC and may not be reproduced, distributed, or used without express written permission.
+
